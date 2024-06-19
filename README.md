@@ -59,7 +59,7 @@ You can inspect the `suit` and `rank` of a card.
 
 And you can compare the suits and ranks of cards as well.
 
-```
+```py
 >>> first.suit == second.suit
 True
 >>> first.rank < second.rank
